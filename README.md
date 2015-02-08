@@ -1,7 +1,9 @@
 ## iojs-ru
-Lokalisering og oversættelse af [io.js](https://iojs.org/) til dansk :da:
+Lokalisering og oversættelse af [io.js](https://iojs.org/) til dansk (da).
 
-<img src="https://iojs.org/images/1.0.0.png" width="80" >
+Følg med i arbejdet og deltag under [issues](https://github.com/iojs/iojs-da/issues)!
+
+<img src="https://iojs.org/images/1.0.0.png" width="80">
 
 twitter — [@iojs_da](https://twitter.com/iojs_da)
 
