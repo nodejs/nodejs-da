@@ -1,4 +1,4 @@
-## iojs-ru
+## iojs-da
 Lokalisering og oversættelse af [io.js](https://iojs.org/) til dansk (da).
 
 Følg med i arbejdet og deltag under [issues](https://github.com/iojs/iojs-da/issues)!
