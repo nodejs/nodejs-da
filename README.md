@@ -1,4 +1,6 @@
 ## iojs-da
+
+[![Join the chat at https://gitter.im/iojs/iojs-da](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/iojs/iojs-da?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Lokalisering og oversættelse af [io.js](https://iojs.org/) til dansk (da).
 
 Følg med i arbejdet og deltag under [issues](https://github.com/iojs/iojs-da/issues)!
